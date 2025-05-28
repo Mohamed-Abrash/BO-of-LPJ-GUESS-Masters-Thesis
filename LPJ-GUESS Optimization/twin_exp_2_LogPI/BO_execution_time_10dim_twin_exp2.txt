@@ -1,0 +1,3 @@
+Execution time: 109928.043400 seconds
+Execution time: 1832.134057 minutes
+Execution time: 30.535568 hours
