@@ -1,0 +1,1475 @@
+Iteration: 1
+Beta:
+1.23537155
+
+Iteration: 2
+Beta:
+1.23555074
+
+Iteration: 3
+Beta:
+1.21890859
+
+Iteration: 4
+Beta:
+1.21122312
+
+Iteration: 5
+Beta:
+1.2134734
+
+Iteration: 6
+Beta:
+1.21342031
+
+Iteration: 7
+Beta:
+1.21155153
+
+Iteration: 8
+Beta:
+1.20675584
+
+Iteration: 9
+Beta:
+1.20046767
+
+Iteration: 10
+Beta:
+1.19890682
+
+Iteration: 11
+Beta:
+1.20467578
+
+Iteration: 12
+Beta:
+1.19214333
+
+Iteration: 13
+Beta:
+1.19472957
+
+Iteration: 14
+Beta:
+1.19478854
+
+Iteration: 15
+Beta:
+1.17927634
+
+Iteration: 16
+Beta:
+1.17150884
+
+Iteration: 17
+Beta:
+1.19676398
+
+Iteration: 18
+Beta:
+1.1991049
+
+Iteration: 19
+Beta:
+1.20137387
+
+Iteration: 20
+Beta:
+1.21175078
+
+Iteration: 21
+Beta:
+1.20554939
+
+Iteration: 22
+Beta:
+1.20162051
+
+Iteration: 23
+Beta:
+1.19648405
+
+Iteration: 24
+Beta:
+1.19458256
+
+Iteration: 25
+Beta:
+1.15509596
+
+Iteration: 26
+Beta:
+1.15592529
+
+Iteration: 27
+Beta:
+1.15039329
+
+Iteration: 28
+Beta:
+1.15703218
+
+Iteration: 29
+Beta:
+1.1278156
+
+Iteration: 30
+Beta:
+1.12881592
+
+Iteration: 31
+Beta:
+1.12954486
+
+Iteration: 32
+Beta:
+1.12831457
+
+Iteration: 33
+Beta:
+1.12672526
+
+Iteration: 34
+Beta:
+1.09815009
+
+Iteration: 35
+Beta:
+1.09784926
+
+Iteration: 36
+Beta:
+1.09569312
+
+Iteration: 37
+Beta:
+1.08765011
+
+Iteration: 38
+Beta:
+1.09197139
+
+Iteration: 39
+Beta:
+1.09168451
+
+Iteration: 40
+Beta:
+1.09393543
+
+Iteration: 41
+Beta:
+1.09564396
+
+Iteration: 42
+Beta:
+1.09651622
+
+Iteration: 43
+Beta:
+1.09465267
+
+Iteration: 44
+Beta:
+1.10032597
+
+Iteration: 45
+Beta:
+1.10245112
+
+Iteration: 46
+Beta:
+1.10656518
+
+Iteration: 47
+Beta:
+1.10486412
+
+Iteration: 48
+Beta:
+1.10870103
+
+Iteration: 49
+Beta:
+1.11102156
+
+Iteration: 50
+Beta:
+1.09270025
+
+Iteration: 51
+Beta:
+1.09522476
+
+Iteration: 52
+Beta:
+1.09371015
+
+Iteration: 53
+Beta:
+1.08873398
+
+Iteration: 54
+Beta:
+1.09548922
+
+Iteration: 55
+Beta:
+1.09415636
+
+Iteration: 56
+Beta:
+1.09593989
+
+Iteration: 57
+Beta:
+1.11171949
+
+Iteration: 58
+Beta:
+1.1249734
+
+Iteration: 59
+Beta:
+1.13220119
+
+Iteration: 60
+Beta:
+1.12587118
+
+Iteration: 61
+Beta:
+1.1102459
+
+Iteration: 62
+Beta:
+1.12145271
+
+Iteration: 63
+Beta:
+1.1035675
+
+Iteration: 64
+Beta:
+1.09956803
+
+Iteration: 65
+Beta:
+1.08402353
+
+Iteration: 66
+Beta:
+1.08259263
+
+Iteration: 67
+Beta:
+1.08626457
+
+Iteration: 68
+Beta:
+1.08065142
+
+Iteration: 69
+Beta:
+1.07645612
+
+Iteration: 70
+Beta:
+1.07054451
+
+Iteration: 71
+Beta:
+1.0598774
+
+Iteration: 72
+Beta:
+1.05337863
+
+Iteration: 73
+Beta:
+1.04130223
+
+Iteration: 74
+Beta:
+1.02953604
+
+Iteration: 75
+Beta:
+1.02861861
+
+Iteration: 76
+Beta:
+1.03921531
+
+Iteration: 77
+Beta:
+1.03459891
+
+Iteration: 78
+Beta:
+1.0380347
+
+Iteration: 79
+Beta:
+1.04084646
+
+Iteration: 80
+Beta:
+1.04831886
+
+Iteration: 81
+Beta:
+1.04007926
+
+Iteration: 82
+Beta:
+1.06475341
+
+Iteration: 83
+Beta:
+1.05760173
+
+Iteration: 84
+Beta:
+1.05556496
+
+Iteration: 85
+Beta:
+1.05681453
+
+Iteration: 86
+Beta:
+1.04727092
+
+Iteration: 87
+Beta:
+1.05796346
+
+Iteration: 88
+Beta:
+1.06186719
+
+Iteration: 89
+Beta:
+1.07369305
+
+Iteration: 90
+Beta:
+1.08256959
+
+Iteration: 91
+Beta:
+1.08602327
+
+Iteration: 92
+Beta:
+1.10759878
+
+Iteration: 93
+Beta:
+1.12258595
+
+Iteration: 94
+Beta:
+1.12680535
+
+Iteration: 95
+Beta:
+1.12680917
+
+Iteration: 96
+Beta:
+1.09979411
+
+Iteration: 97
+Beta:
+1.11237808
+
+Iteration: 98
+Beta:
+1.10308259
+
+Iteration: 99
+Beta:
+1.11350235
+
+Iteration: 100
+Beta:
+1.11886041
+
+Iteration: 101
+Beta:
+1.13025192
+
+Iteration: 102
+Beta:
+1.13186881
+
+Iteration: 103
+Beta:
+1.10357928
+
+Iteration: 104
+Beta:
+1.12207406
+
+Iteration: 105
+Beta:
+1.12656006
+
+Iteration: 106
+Beta:
+1.11652948
+
+Iteration: 107
+Beta:
+1.09182955
+
+Iteration: 108
+Beta:
+1.06361177
+
+Iteration: 109
+Beta:
+1.04727299
+
+Iteration: 110
+Beta:
+1.04818513
+
+Iteration: 111
+Beta:
+1.05010188
+
+Iteration: 112
+Beta:
+1.03120808
+
+Iteration: 113
+Beta:
+1.03409335
+
+Iteration: 114
+Beta:
+1.03327752
+
+Iteration: 115
+Beta:
+1.04522747
+
+Iteration: 116
+Beta:
+1.03701089
+
+Iteration: 117
+Beta:
+1.04803855
+
+Iteration: 118
+Beta:
+1.04665449
+
+Iteration: 119
+Beta:
+1.05727697
+
+Iteration: 120
+Beta:
+1.0605194
+
+Iteration: 121
+Beta:
+1.07109669
+
+Iteration: 122
+Beta:
+1.04861342
+
+Iteration: 123
+Beta:
+1.05409348
+
+Iteration: 124
+Beta:
+1.0426774
+
+Iteration: 125
+Beta:
+1.04674164
+
+Iteration: 126
+Beta:
+1.04969838
+
+Iteration: 127
+Beta:
+1.04023429
+
+Iteration: 128
+Beta:
+1.04415548
+
+Iteration: 129
+Beta:
+1.04805961
+
+Iteration: 130
+Beta:
+1.04198549
+
+Iteration: 131
+Beta:
+1.05182506
+
+Iteration: 132
+Beta:
+1.04990418
+
+Iteration: 133
+Beta:
+1.05054354
+
+Iteration: 134
+Beta:
+1.04223201
+
+Iteration: 135
+Beta:
+1.04096002
+
+Iteration: 136
+Beta:
+1.04121409
+
+Iteration: 137
+Beta:
+1.03638329
+
+Iteration: 138
+Beta:
+1.02971553
+
+Iteration: 139
+Beta:
+1.02730622
+
+Iteration: 140
+Beta:
+1.02082318
+
+Iteration: 141
+Beta:
+1.01948536
+
+Iteration: 142
+Beta:
+1.06572042
+
+Iteration: 143
+Beta:
+1.05759614
+
+Iteration: 144
+Beta:
+1.06077119
+
+Iteration: 145
+Beta:
+1.0585515
+
+Iteration: 146
+Beta:
+1.05548888
+
+Iteration: 147
+Beta:
+1.05676096
+
+Iteration: 148
+Beta:
+1.04894643
+
+Iteration: 149
+Beta:
+1.04833857
+
+Iteration: 150
+Beta:
+1.04083508
+
+Iteration: 151
+Beta:
+1.04971989
+
+Iteration: 152
+Beta:
+1.04694782
+
+Iteration: 153
+Beta:
+1.03914913
+
+Iteration: 154
+Beta:
+1.03373891
+
+Iteration: 155
+Beta:
+1.04447977
+
+Iteration: 156
+Beta:
+1.05157828
+
+Iteration: 157
+Beta:
+1.04488787
+
+Iteration: 158
+Beta:
+1.0560981
+
+Iteration: 159
+Beta:
+1.05996734
+
+Iteration: 160
+Beta:
+1.05685972
+
+Iteration: 161
+Beta:
+1.05824548
+
+Iteration: 162
+Beta:
+1.06787841
+
+Iteration: 163
+Beta:
+1.05838141
+
+Iteration: 164
+Beta:
+1.05292396
+
+Iteration: 165
+Beta:
+1.06687213
+
+Iteration: 166
+Beta:
+1.06791317
+
+Iteration: 167
+Beta:
+1.06531298
+
+Iteration: 168
+Beta:
+1.03668776
+
+Iteration: 169
+Beta:
+1.0152192
+
+Iteration: 170
+Beta:
+1.01173217
+
+Iteration: 171
+Beta:
+1.01867537
+
+Iteration: 172
+Beta:
+1.0181714
+
+Iteration: 173
+Beta:
+1.01972384
+
+Iteration: 174
+Beta:
+1.02138043
+
+Iteration: 175
+Beta:
+1.00355776
+
+Iteration: 176
+Beta:
+1.0045436
+
+Iteration: 177
+Beta:
+1.01083047
+
+Iteration: 178
+Beta:
+1.00453313
+
+Iteration: 179
+Beta:
+1.00714697
+
+Iteration: 180
+Beta:
+1.010312
+
+Iteration: 181
+Beta:
+0.98454663
+
+Iteration: 182
+Beta:
+0.98087308
+
+Iteration: 183
+Beta:
+0.98174891
+
+Iteration: 184
+Beta:
+0.98226039
+
+Iteration: 185
+Beta:
+0.97422927
+
+Iteration: 186
+Beta:
+0.98421483
+
+Iteration: 187
+Beta:
+0.97645788
+
+Iteration: 188
+Beta:
+0.98581252
+
+Iteration: 189
+Beta:
+0.98497112
+
+Iteration: 190
+Beta:
+0.97794778
+
+Iteration: 191
+Beta:
+0.98024457
+
+Iteration: 192
+Beta:
+0.98122463
+
+Iteration: 193
+Beta:
+0.92364812
+
+Iteration: 194
+Beta:
+0.91975657
+
+Iteration: 195
+Beta:
+0.91613214
+
+Iteration: 196
+Beta:
+0.91703778
+
+Iteration: 197
+Beta:
+0.90662852
+
+Iteration: 198
+Beta:
+0.90514608
+
+Iteration: 199
+Beta:
+0.90947966
+
+Iteration: 200
+Beta:
+0.90501585
+
+Iteration: 201
+Beta:
+0.90038314
+
+Iteration: 202
+Beta:
+0.91342407
+
+Iteration: 203
+Beta:
+0.90708609
+
+Iteration: 204
+Beta:
+0.91101626
+
+Iteration: 205
+Beta:
+0.90054972
+
+Iteration: 206
+Beta:
+0.91171971
+
+Iteration: 207
+Beta:
+0.90152122
+
+Iteration: 208
+Beta:
+0.86808715
+
+Iteration: 209
+Beta:
+0.97237428
+
+Iteration: 210
+Beta:
+1.0438755
+
+Iteration: 211
+Beta:
+1.00504704
+
+Iteration: 212
+Beta:
+0.94820583
+
+Iteration: 213
+Beta:
+0.93457619
+
+Iteration: 214
+Beta:
+0.93238301
+
+Iteration: 215
+Beta:
+0.93380767
+
+Iteration: 216
+Beta:
+0.95836516
+
+Iteration: 217
+Beta:
+0.96159104
+
+Iteration: 218
+Beta:
+0.96180156
+
+Iteration: 219
+Beta:
+0.96161511
+
+Iteration: 220
+Beta:
+0.96677871
+
+Iteration: 221
+Beta:
+0.9589737
+
+Iteration: 222
+Beta:
+0.95398375
+
+Iteration: 223
+Beta:
+0.94658501
+
+Iteration: 224
+Beta:
+0.94633386
+
+Iteration: 225
+Beta:
+0.94952072
+
+Iteration: 226
+Beta:
+0.94467677
+
+Iteration: 227
+Beta:
+0.94951635
+
+Iteration: 228
+Beta:
+0.94832854
+
+Iteration: 229
+Beta:
+0.9490614
+
+Iteration: 230
+Beta:
+0.95928722
+
+Iteration: 231
+Beta:
+0.94928573
+
+Iteration: 232
+Beta:
+0.96235198
+
+Iteration: 233
+Beta:
+0.94899279
+
+Iteration: 234
+Beta:
+0.95815546
+
+Iteration: 235
+Beta:
+0.94600492
+
+Iteration: 236
+Beta:
+0.94454511
+
+Iteration: 237
+Beta:
+0.95481696
+
+Iteration: 238
+Beta:
+0.95661374
+
+Iteration: 239
+Beta:
+0.94925529
+
+Iteration: 240
+Beta:
+0.9359217
+
+Iteration: 241
+Beta:
+0.93662331
+
+Iteration: 242
+Beta:
+0.93417759
+
+Iteration: 243
+Beta:
+0.93231618
+
+Iteration: 244
+Beta:
+0.91754786
+
+Iteration: 245
+Beta:
+0.92451066
+
+Iteration: 246
+Beta:
+0.95876961
+
+Iteration: 247
+Beta:
+0.9574394
+
+Iteration: 248
+Beta:
+0.96366163
+
+Iteration: 249
+Beta:
+0.95983556
+
+Iteration: 250
+Beta:
+0.97270899
+
+Iteration: 251
+Beta:
+0.96549504
+
+Iteration: 252
+Beta:
+0.96084189
+
+Iteration: 253
+Beta:
+0.98495198
+
+Iteration: 254
+Beta:
+0.98026766
+
+Iteration: 255
+Beta:
+0.97561955
+
+Iteration: 256
+Beta:
+0.97256929
+
+Iteration: 257
+Beta:
+0.96861603
+
+Iteration: 258
+Beta:
+0.97329708
+
+Iteration: 259
+Beta:
+0.99287101
+
+Iteration: 260
+Beta:
+1.00668505
+
+Iteration: 261
+Beta:
+1.01076413
+
+Iteration: 262
+Beta:
+1.02480904
+
+Iteration: 263
+Beta:
+1.02316447
+
+Iteration: 264
+Beta:
+1.01602239
+
+Iteration: 265
+Beta:
+1.02531052
+
+Iteration: 266
+Beta:
+1.01736944
+
+Iteration: 267
+Beta:
+1.02959833
+
+Iteration: 268
+Beta:
+1.01507438
+
+Iteration: 269
+Beta:
+1.01249388
+
+Iteration: 270
+Beta:
+1.0140031
+
+Iteration: 271
+Beta:
+0.99867599
+
+Iteration: 272
+Beta:
+1.01414823
+
+Iteration: 273
+Beta:
+0.99661429
+
+Iteration: 274
+Beta:
+1.00090872
+
+Iteration: 275
+Beta:
+0.98946219
+
+Iteration: 276
+Beta:
+0.97878263
+
+Iteration: 277
+Beta:
+0.9826858
+
+Iteration: 278
+Beta:
+0.9752986
+
+Iteration: 279
+Beta:
+0.97990636
+
+Iteration: 280
+Beta:
+0.97394304
+
+Iteration: 281
+Beta:
+0.97371013
+
+Iteration: 282
+Beta:
+0.96554277
+
+Iteration: 283
+Beta:
+0.97557432
+
+Iteration: 284
+Beta:
+0.96798915
+
+Iteration: 285
+Beta:
+1.02508552
+
+Iteration: 286
+Beta:
+1.02785998
+
+Iteration: 287
+Beta:
+1.02230651
+
+Iteration: 288
+Beta:
+1.0175516
+
+Iteration: 289
+Beta:
+1.02253327
+
+Iteration: 290
+Beta:
+1.01613999
+
+Iteration: 291
+Beta:
+0.99663391
+
+Iteration: 292
+Beta:
+0.98819075
+
+Iteration: 293
+Beta:
+0.98595901
+
+Iteration: 294
+Beta:
+0.99964725
+
+Iteration: 295
+Beta:
+1.00951836
+
+Iteration: 296
+Beta:
+1.01275378
+
+Iteration: 297
+Beta:
+1.01381277
+
+Iteration: 298
+Beta:
+1.01512402
+
+Iteration: 299
+Beta:
+1.02265982
+
+Iteration: 300
+Beta:
+1.03060091
+
+Iteration: 500
+Beta:
+1.25315922
+
+Iteration: 1000
+Beta:
+-1.42087310e-01]
+[
+1.23730146e+01]
+[-2.18682137e-01]
+[-4.57615230e-03]
+[-3.06407636e+01]
+[-1.33083563e-01]
+[
+3.59996879e+00]
+[
+2.09813214e+00]
+[
+1.42866977e+01]
+[-1.59361112e-02]
+[
+5.97264228e-01]
+[
+1.39141815e-01]
+[-3.75506385e+01]
+[
+8.25879557e-02]
+[-1.18602800e-04]
+[-4.35971484e-01]
+[
+1.05684405e-01]
+[-2.98341812e+00]
+[-3.32591324e+01]
+[-6.80422968e+01]
+[
+9.01461032e-04
+
+Iteration: 1500
+Beta:
+-7.82102760e-02]
+[
+4.07182086e+00]
+[
+3.21641844e-01]
+[
+1.13927689e-01]
+[-5.91891482e+01]
+[-1.59478370e-01]
+[
+5.58933793e+00]
+[
+5.08252679e+00]
+[
+1.78763414e+01]
+[-7.62638120e-03]
+[
+4.56601712e-01]
+[
+1.04507658e-01]
+[-9.78792950e+00]
+[-2.71087327e-01]
+[-8.82052918e-02]
+[-9.12105397e-01]
+[
+1.22443394e-01]
+[-4.22311879e+00]
+[-1.06077715e+02]
+[-8.63846283e+01]
+[
+6.10033255e-04
+
+Iteration: 2000
+Beta:
+-3.81365160e-02]
+[
+2.19359219e+00]
+[
+5.58381892e-01]
+[
+8.99415154e-02]
+[-6.15385337e+01]
+[-1.65851406e-01]
+[
+5.31166726e+00]
+[
+6.32270319e+00]
+[
+1.94773754e+01]
+[-6.40317540e-03]
+[
+8.51962489e-01]
+[
+8.14126637e-02]
+[-2.79999603e+00]
+[-4.46393543e-01]
+[-6.56739184e-02]
+[-1.01013200e+00]
+[
+1.16692077e-01]
+[-4.17540992e+00]
+[-1.63020709e+02]
+[-9.90173372e+01]
+[
+5.97779531e-04
+
+Iteration: 2500
+Beta:
+1.07024279e-02]
+[
+3.78420408e+00]
+[
+7.08074914e-01]
+[
+1.47804460e-01]
+[-7.14196480e+01]
+[-2.04442965e-01]
+[
+6.15898671e+00]
+[
+5.95496182e+00]
+[
+1.57226329e+01]
+[-2.94194930e-03]
+[
+9.92739559e-01]
+[
+3.12078274e-02]
+[-8.95785731e+00]
+[-6.31943876e-01]
+[-1.12205845e-01]
+[-1.14828963e+00]
+[
+1.26329865e-01]
+[-4.82642230e+00]
+[-1.43038610e+02]
+[-7.10621457e+01]
+[
+5.16018694e-04
+
+Iteration: 3000
+Beta:
+3.38552917e-02]
+[
+9.25347708e+00]
+[
+6.54674069e-01]
+[
+1.06755418e-01]
+[-5.49138278e+01]
+[-2.67633802e-01]
+[
+6.49388740e+00]
+[
+5.74083021e+00]
+[
+1.31063469e+01]
+[-6.97433887e-03]
+[
+8.92403145e-01]
+[
+3.87734603e-02]
+[-2.60246472e+01]
+[-6.44826263e-01]
+[-9.55126274e-02]
+[-9.07114719e-01]
+[
+1.30770588e-01]
+[-5.26267534e+00]
+[-1.44761319e+02]
+[-5.30417917e+01]
+[
+5.86922224e-04
+
+Iteration: 3500
+Beta:
+2.11976350e-02]
+[
+1.03302017e+01]
+[
+4.57222529e-01]
+[
+9.70281116e-02]
+[-4.98131340e+01]
+[-2.00922861e-01]
+[
+7.16940251e+00]
+[
+4.38810005e+00]
+[
+1.31167046e+01]
+[-7.89814566e-03]
+[
+8.83661288e-01]
+[
+7.90896898e-02]
+[-2.44932142e+01]
+[-5.49679312e-01]
+[-8.68846797e-02]
+[-8.01606544e-01]
+[
+9.01436270e-02]
+[-6.05094455e+00]
+[-8.83439563e+01]
+[-4.98021812e+01]
+[
+6.23578409e-04
+
+Iteration: 4000
+Beta:
+7.10210085e-03]
+[
+1.06451996e+01]
+[
+5.65823658e-01]
+[
+1.10951448e-01]
+[-5.65649195e+01]
+[-1.92448264e-01]
+[
+8.00961138e+00]
+[
+3.31714210e+00]
+[
+1.21673111e+01]
+[-6.29914098e-03]
+[
+7.75010251e-01]
+[
+1.07711204e-01]
+[-2.20665946e+01]
+[-6.23563478e-01]
+[-1.00740679e-01]
+[-8.89431447e-01]
+[
+7.54816329e-02]
+[-6.73556473e+00]
+[-4.74354928e+01]
+[-4.02138406e+01]
+[
+5.29855692e-04
+
+Iteration: 4500
+Beta:
+4.84372548e-02]
+[
+4.57416130e+00]
+[
+1.72298859e+00]
+[
+8.45561106e-02]
+[-7.61668212e+01]
+[-1.99782780e-01]
+[
+7.21447514e+00]
+[
+4.91056457e+00]
+[
+1.58450314e+01]
+[-1.51139186e-02]
+[
+1.19458912e+00]
+[
+8.63078143e-02]
+[-3.06782363e+00]
+[-1.53512623e+00]
+[-1.00566206e-01]
+[-1.19811166e+00]
+[
+1.12666999e-01]
+[-6.29289725e+00]
+[-6.73903445e+01]
+[-6.59165927e+01]
+[
+9.31968935e-04
+
